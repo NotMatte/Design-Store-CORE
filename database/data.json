@@ -1,0 +1,34 @@
+{
+    "log":{
+        "todo":"ID_CHAT_TODO",
+        "private":"ID_CHAT_LOG_PRIVATA",
+        "public":"ID_CHAT_LOG_PUBBLICA"
+    },
+    "ordini":{
+        "ESEMPIO":{
+            "nick":"NotMatte",
+            "chat":"ID_CHAT_ORDINE",
+            "num":"032",
+            "stato":"🟢 consegnato",
+            "addetto":"ID_ADDETTO",
+            "data":"1-12-2022 20:00",
+            "commissione":"1x Logo",
+            "prezzo":"free"
+        }
+    },
+    "perms":{
+        "manager":"ID_RUOLO_MANAGER",
+        "staff":"ID_RUOLO_STAFF",
+        "all":"ID_RUOLO_ASTERISCO"},
+    "blacklist":{
+        "ESEMPIO":{
+            "username":"NotMatte",
+            "tag":"6590",
+            "server":"ESEMPIO_SERVER",
+            "motivo":"MOTIVO",
+            "staff":"ID_STAFFER",
+            "data":"4-01-2023 12:00:00",
+            "id_blacklist":"486"
+        }
+    }
+}

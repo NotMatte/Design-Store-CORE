@@ -1,0 +1,18 @@
+{
+  "name": "lounge-core",
+  "version": "1.0.0",
+  "description": "notmatte design store",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "NotMatte",
+  "license": "GNU",
+  "dependencies": {
+    "discord-buttons": "^4.0.0-deprecated",
+    "discord.js": "^14.7.1"
+  },
+  "devDependencies": {
+    "dotenv": "^16.0.3"
+  }
+}
